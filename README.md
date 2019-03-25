@@ -3,4 +3,4 @@ https://trailhead.salesforce.com/content/learn/modules/git-and-git-hub-basics/wo
 
 Step 2: Make Changes to README.md File and Commit the Change to Your Local Repository
 
-First change to the Readme.
+Another change coming. First change to the Readme. Second change to the readme.
